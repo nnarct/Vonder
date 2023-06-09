@@ -15,7 +15,7 @@ This repository contains the code for the client and server components of Vonder
 
 1. **Clone the Repository**: `git clone https://github.com/nnarct/Vonder.git`.
 2. **Navigate to the Directory**:  `cd Vonder`.
-3. **Install Dependencies**: Install dependencies with a single command: `npm install`.
+3. **Install Dependencies**: Install dependencies with a single command: `npm install-all`.
 
 
 ## Usage
