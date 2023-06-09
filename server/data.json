@@ -1,0 +1,96 @@
+{
+  "info": {
+    "remainingQuota": 8019,
+    "totalQuota": 10000,
+    "currency": "THB",
+    "lastUpdateAt": 1686268535169,
+    "resetAt": 1686268535169,
+    "totalTransaction": 13
+  },
+  "transactions": {
+    "transportation": [
+      {
+        "memo": "BTS Fare",
+        "createAt": 1674356400000,
+        "value": -46,
+        "currency": "THB"
+      },
+      {
+        "memo": "BTS Fare",
+        "createAt": 1674385200000,
+        "value": -46,
+        "currency": "THB"
+      },
+      {
+        "memo": "Taxi",
+        "createAt": 1686249378215,
+        "value": -200,
+        "currency": "THB"
+      },
+      {
+        "memo": "Taxi",
+        "createAt": 1686249379600,
+        "value": -200,
+        "currency": "THB"
+      },
+      {
+        "memo": "Car fuel",
+        "createAt": 1686249410293,
+        "value": -500,
+        "currency": "THB"
+      },
+      {
+        "memo": "Vonder salary",
+        "createAt": 1686250572146,
+        "value": 4455,
+        "currency": "THB"
+      },
+      {
+        "memo": "as",
+        "createAt": 1686251024377,
+        "value": 234.564,
+        "currency": "THB"
+      }
+    ],
+    "food": [
+      {
+        "memo": "Lunch",
+        "createAt": 1674367200000,
+        "value": -150,
+        "currency": "THB"
+      },
+      {
+        "memo": "Dinner",
+        "createAt": 1674392400000,
+        "value": -399,
+        "currency": "THB"
+      },
+      {
+        "memo": "Tee Noi",
+        "createAt": 1686252391438,
+        "value": -300,
+        "currency": "THB"
+      },
+      {
+        "memo": "Look chin ping",
+        "createAt": 1686252525678,
+        "value": -50,
+        "currency": "THB"
+      },
+      {
+        "memo": "KOI the",
+        "createAt": 1686268534991,
+        "value": -90,
+        "currency": "THB"
+      }
+    ],
+    "other": [
+      {
+        "memo": "Repay debt",
+        "createAt": 1674360000000,
+        "value": 50,
+        "currency": "THB"
+      }
+    ]
+  }
+}
